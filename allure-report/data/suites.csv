@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Mon Dec 18 15:35:38 MSK 2023","Mon Dec 18 15:35:50 MSK 2023","11704","chromium","TestTask.spec.js","Test suit","","","Test case 5",""
+"passed","Mon Dec 18 15:35:18 MSK 2023","Mon Dec 18 15:35:24 MSK 2023","5680","chromium","TestTask.spec.js","Test suit","","","Test case 3",""
+"passed","Mon Dec 18 15:35:12 MSK 2023","Mon Dec 18 15:35:18 MSK 2023","5956","chromium","TestTask.spec.js","Test suit","","","Test case 2",""
+"failed","Mon Dec 18 15:35:01 MSK 2023","Mon Dec 18 15:35:12 MSK 2023","11083","chromium","TestTask.spec.js","Test suit","","","Test case 1",""
+"failed","Mon Dec 18 15:35:24 MSK 2023","Mon Dec 18 15:35:38 MSK 2023","14122","chromium","TestTask.spec.js","Test suit","","","Test case 4",""
